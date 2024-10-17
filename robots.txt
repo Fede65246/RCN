@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fede65246.github.io/RCN/sitemap.xml
