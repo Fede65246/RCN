@@ -3,531 +3,176 @@
     <title>Rete Culturale Nazionale</title>
     <link href="https://fede65246.github.io/RCN/feed.xml" rel="self" />
     <link href="https://fede65246.github.io/RCN" />
-    <updated>2024-10-17T19:34:22+02:00</updated>
+    <updated>2024-10-19T10:53:19+02:00</updated>
     <author>
         <name>Federico Vidoli</name>
     </author>
     <id>https://fede65246.github.io/RCN</id>
 
     <entry>
-        <title>Contatti e Domande Frequenti</title>
-        <author>
-            <name>Federico Vidoli</name>
-        </author>
-        <link href="https://fede65246.github.io/RCN/contatti-e-domande-frequenti-2/"/>
-        <id>https://fede65246.github.io/RCN/contatti-e-domande-frequenti-2/</id>
-
-        <updated>2024-09-24T20:05:00+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Il museo è aperto dal lunedì alla domenica dalle ore 9:00 alle 18:00. Ti consigliamo di controllare il nostro sito web per eventuali&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:group {"metadata":{"name":" Contact"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|30","bottom":"var:preset|spacing|60","left":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} --></p>
-<div class="wp-block-group alignfull has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--30)"><p><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|70"}}}} --></p>
-<div class="wp-block-columns alignwide"><p><!-- wp:column {"width":"50%"} --></p>
-<div class="wp-block-column" style="flex-basis:50%"><p><!-- wp:group {"layout":{"type":"default"}} --></p>
-<div class="wp-block-group"><p><!-- wp:heading {"level":4,"fontSize":"medium"} --></p>
-<h4 class="wp-block-heading has-medium-font-size">Quali sono gli orari di apertura del museo?</h4>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"12px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:12px">Il museo è aperto dal lunedì alla domenica dalle ore 9:00 alle 18:00. Ti consigliamo di controllare il nostro sito web per eventuali modifiche agli orari di apertura.</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></p>
-<p><!-- wp:separator {"className":"is-style-wide","backgroundColor":"tertiary"} --></p>
-<hr class="wp-block-separator has-text-color has-tertiary-color has-alpha-channel-opacity has-tertiary-background-color has-background is-style-wide"/>
-<!-- /wp:separator --></p>
-<p><!-- wp:group {"layout":{"type":"default"}} --></p>
-<div class="wp-block-group"><p><!-- wp:heading {"level":4,"fontSize":"medium"} --></p>
-<h4 class="wp-block-heading has-medium-font-size">Quali sono i costi di ingresso al museo?</h4>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"12px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:12px">I costi di ingresso variano a seconda della categoria. Gli adulti pagano €10, gli studenti €5 e i bambini sotto i 12 anni entrano gratuitamente. Le tariffe possono essere soggette a modifiche durante mostre speciali.</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></p>
-<p><!-- wp:separator {"className":"is-style-wide","backgroundColor":"tertiary"} --></p>
-<hr class="wp-block-separator has-text-color has-tertiary-color has-alpha-channel-opacity has-tertiary-background-color has-background is-style-wide"/>
-<!-- /wp:separator --></p>
-<p><!-- wp:group {"layout":{"type":"default"}} --></p>
-<div class="wp-block-group"><p><!-- wp:heading {"level":4,"fontSize":"medium"} --></p>
-<h4 class="wp-block-heading has-medium-font-size">Posso prenotare i biglietti online per visitare il Museo delle Meraviglie Italiane?</h4>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"12px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:12px">Sì, puoi prenotare i biglietti online tramite il nostro sito web. È possibile selezionare la data e l'orario di visita desiderati e completare il pagamento in modo sicuro.</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:column --></p>
-<p><!-- wp:column {"width":"50%"} --></p>
-<div class="wp-block-column" style="flex-basis:50%"><p><!-- wp:heading {"fontSize":"large"} --></p>
-<h2 class="wp-block-heading has-large-font-size">Contattaci per avere più informazioni</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph --></p>
-<p><strong>Via del Corso, 123</strong></p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"0"}}}} --></p>
-<p style="margin-top:0"><strong>00186 Roma</strong></p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"8px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:8px">+39 06 12345678</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"8px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:8px">hi@example.com</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph --></p>
-<p>Scrivici direttamente nel documento qui sotto </p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:column --></div>
-<p>
-<!-- /wp:columns --></div>
-<p>
-<!-- /wp:group --></p>
-<p><!-- wp:wpforms/form-selector {"clientId":"6c7364df-9fed-4288-b90f-dedebc1f22d6","formId":"9","copyPasteJsonValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022theme\u0022:\u0022default\u0022,\u0022themeName\u0022:\u0022\u0022,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022backgroundImage\u0022:\u0022none\u0022,\u0022backgroundPosition\u0022:\u0022center center\u0022,\u0022backgroundRepeat\u0022:\u0022no-repeat\u0022,\u0022backgroundSizeMode\u0022:\u0022cover\u0022,\u0022backgroundSize\u0022:\u0022cover\u0022,\u0022backgroundWidth\u0022:\u0022100px\u0022,\u0022backgroundHeight\u0022:\u0022100px\u0022,\u0022backgroundUrl\u0022:\u0022url()\u0022,\u0022backgroundColor\u0022:\u0022rgba( 0, 0, 0, 0 )\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBorderStyle\u0022:\u0022solid\u0022,\u0022fieldBorderSize\u0022:\u00221px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022fieldMenuColor\u0022:\u0022#ffffff\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderStyle\u0022:\u0022none\u0022,\u0022buttonBorderSize\u0022:\u00221px\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#066aab\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022,\u0022buttonBorderColor\u0022:\u0022#066aab\u0022,\u0022pageBreakColor\u0022:\u0022#066aab\u0022,\u0022containerPadding\u0022:\u00220px\u0022,\u0022containerBorderStyle\u0022:\u0022none\u0022,\u0022containerBorderWidth\u0022:\u00221px\u0022,\u0022containerBorderColor\u0022:\u0022#000000\u0022,\u0022containerBorderRadius\u0022:\u00223px\u0022,\u0022containerShadowSize\u0022:\u0022none\u0022,\u0022customCss\u0022:\u0022\u0022,\u0022pageTitle\u0022:\u0022Contatti e Domande Frequenti\u0022}","pageTitle":"Contatti e Domande Frequenti"} /--></p>
-<p><!-- wp:group {"metadata":{"name":" Testimonial"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|30","bottom":"var:preset|spacing|60","left":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} --></p>
-<div class="wp-block-group alignfull has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--30)"><p><!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"left","contentSize":""}} --></p>
-<div class="wp-block-group alignwide"><p><!-- wp:heading {"fontSize":"large"} --></p>
-<h2 class="wp-block-heading has-large-font-size">Opinioni degli affiliati</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"16px"}}}} --></p>
-<p style="margin-top:16px">Scopri cosa ne pensa la gente di noi. Entra in una comunità attiva e interessata a portare avanti progetti, idee e discussioni. Lascia anche tu la descrizione della tua esperienza con noi. Scrivi cosa ne pensi della nostra idea!</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></p>
-<p><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","right":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"backgroundColor":"tertiary","layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group alignwide has-tertiary-background-color has-background" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><p><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} --></p>
-<div class="wp-block-columns alignwide are-vertically-aligned-center"><p><!-- wp:column {"verticalAlignment":"center","width":"66.66%","style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} --></p>
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:66.66%"><p><!-- wp:paragraph {"style":{"typography":{"fontSize":"32px","lineHeight":1.4,"fontStyle":"normal","fontWeight":"600"}}} --></p>
-<p style="font-size:32px;font-style:normal;font-weight:600;line-height:1.4">Esperienza unica in Toscana: location esclusiva, servizio impeccabile, atmosfera elegante e raffinata.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:heading {"textAlign":"left","level":4,"fontSize":"small"} --></p>
-<h4 class="wp-block-heading has-text-align-left has-small-font-size">Thomas Smith</h4>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"2px"}}},"fontSize":"small"} --></p>
-<p class="has-text-align-left has-small-font-size" style="margin-top:2px">Proprietaria di una società di eventi</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:column --></p>
-<p><!-- wp:column {"verticalAlignment":"center","width":"33.33%"} --></p>
-<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%"><p><!-- wp:image {"aspectRatio":"1","scale":"cover","align":"center","className":"is-style-default extendify-image-import"} --></p>
-<figure class="wp-block-image aligncenter is-style-default extendify-image-import"><img loading="lazy" src="https://fede65246.github.io/RCN/media/posts/38/photo-1519345182560-3f2917c472ef" alt="" style="aspect-ratio:1;object-fit:cover"></figure>
-<p>
-<!-- /wp:image --></div>
-<p>
-<!-- /wp:column --></div>
-<p>
-<!-- /wp:columns --></div>
-<p>
-<!-- /wp:group --></p>
-<p><!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"top":"32px"}}}} --></p>
-<div class="wp-block-columns alignwide" style="margin-top:32px"><p><!-- wp:column {"backgroundColor":"tertiary"} --></p>
-<div class="wp-block-column has-tertiary-background-color has-background"><p><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"24px","bottom":"var:preset|spacing|30","left":"24px"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-right:24px;padding-bottom:var(--wp--preset--spacing--30);padding-left:24px"><p><!-- wp:paragraph --></p>
-<p>Vivi matrimoni indimenticabili in un'atmosfera elegante con staff professionale dedicato.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:group {"style":{"spacing":{"blockGap":"1rem"}},"layout":{"type":"flex","flexWrap":"nowrap"}} --></p>
-<div class="wp-block-group"><p><!-- wp:image {"aspectRatio":"1","scale":"cover","align":"center","className":"is-style-rounded extendify-image-import"} --></p>
-<figure class="wp-block-image aligncenter is-style-rounded extendify-image-import"><img loading="lazy" src="https://fede65246.github.io/RCN/media/posts/38/photo-1607503873903-c5e95f80d7b9" alt="" style="aspect-ratio:1;object-fit:cover"></figure>
-<p>
-<!-- /wp:image --></p>
-<p><!-- wp:group {"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group"><p><!-- wp:heading {"textAlign":"left","level":4,"fontSize":"small"} --></p>
-<h4 class="wp-block-heading has-text-align-left has-small-font-size">Susan Davis</h4>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"2px"}}},"fontSize":"small"} --></p>
-<p class="has-text-align-left has-small-font-size" style="margin-top:2px">CEO di un'azienda di design</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:column --></p>
-<p><!-- wp:column {"backgroundColor":"tertiary"} --></p>
-<div class="wp-block-column has-tertiary-background-color has-background"><p><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"24px","bottom":"var:preset|spacing|30","left":"24px"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-right:24px;padding-bottom:var(--wp--preset--spacing--30);padding-left:24px"><p><!-- wp:paragraph --></p>
-<p>Interni lussuosi, eventi di alto livello. Villa degli Eventi supera le aspettative.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:group {"style":{"spacing":{"blockGap":"1rem"}},"layout":{"type":"flex","flexWrap":"nowrap"}} --></p>
-<div class="wp-block-group"><p><!-- wp:image {"aspectRatio":"1","scale":"cover","align":"center","className":"is-style-rounded extendify-image-import"} --></p>
-<figure class="wp-block-image aligncenter is-style-rounded extendify-image-import"><img loading="lazy" src="https://fede65246.github.io/RCN/media/posts/38/photo-1614289371518-722f2615943d" alt="" style="aspect-ratio:1;object-fit:cover"></figure>
-<p>
-<!-- /wp:image --></p>
-<p><!-- wp:group {"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group"><p><!-- wp:heading {"textAlign":"left","level":4,"fontSize":"small"} --></p>
-<h4 class="wp-block-heading has-text-align-left has-small-font-size">James Johnson</h4>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"2px"}}},"fontSize":"small"} --></p>
-<p class="has-text-align-left has-small-font-size" style="margin-top:2px">Manager di una multinazionale</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:column --></p>
-<p><!-- wp:column {"backgroundColor":"tertiary"} --></p>
-<div class="wp-block-column has-tertiary-background-color has-background"><p><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"24px","bottom":"var:preset|spacing|30","left":"24px"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-right:24px;padding-bottom:var(--wp--preset--spacing--30);padding-left:24px"><p><!-- wp:paragraph --></p>
-<p>Organizza celebrazioni aziendali impeccabili e feste private memorabili in un ambiente elegante.</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:group {"style":{"spacing":{"blockGap":"1rem"}},"layout":{"type":"flex","flexWrap":"nowrap"}} --></p>
-<div class="wp-block-group"><p><!-- wp:image {"aspectRatio":"1","scale":"cover","align":"center","className":"is-style-rounded extendify-image-import"} --></p>
-<figure class="wp-block-image aligncenter is-style-rounded extendify-image-import"><img loading="lazy" src="https://fede65246.github.io/RCN/media/posts/38/photo-1553514029-1318c9127859" alt="" style="aspect-ratio:1;object-fit:cover"></figure>
-<p>
-<!-- /wp:image --></p>
-<p><!-- wp:group {"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group"><p><!-- wp:heading {"textAlign":"left","level":4,"fontSize":"small"} --></p>
-<h4 class="wp-block-heading has-text-align-left has-small-font-size">Elizabeth Brown</h4>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"align":"left","style":{"spacing":{"margin":{"top":"2px"}}},"fontSize":"small"} --></p>
-<p class="has-text-align-left has-small-font-size" style="margin-top:2px">Imprenditore nel settore della moda</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:column --></div>
-<p>
-<!-- /wp:columns --></div>
-<p>
-<!-- /wp:group --></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Unisciti alla Rete</title>
-        <author>
-            <name>Federico Vidoli</name>
-        </author>
-        <link href="https://fede65246.github.io/RCN/unisciti-alla-rete-3/"/>
-        <id>https://fede65246.github.io/RCN/unisciti-alla-rete-3/</id>
-
-        <updated>2024-09-24T18:23:43+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Scopri tutti i vantaggi che ti offre la Rete culturale nazionale. Iscriverti non costa nulla ma contribuirà allo sviluppo culturale del paese. Ricorda&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><!-- wp:cover {"url":"https://fede65246.github.io/RCN/media/posts/37/87262c92d42acd1c3.73206444.jpg","id":333,"dimRatio":90,"customOverlayColor":"#141414","isUserOverlayColor":true,"focalPoint":{"x":0.5,"y":0},"minHeight":50,"minHeightUnit":"vh","contentPosition":"top left","metadata":{"categories":["banner"],"patternName":"core/fullwidth-dark-banner-with-heading-top-left","name":"Fullwidth Dark Banner with Heading Top Left"},"align":"full","style":{"spacing":{"padding":{"top":"5vw","right":"5vw","bottom":"5vw","left":"5vw"},"margin":{"top":"0"}}}} --></p>
-<div class="wp-block-cover alignfull has-custom-content-position is-position-top-left" style="margin-top:0;padding-top:5vw;padding-right:5vw;padding-bottom:5vw;padding-left:5vw;min-height:50vh"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim" style="background-color:#141414"></span><figure class="wp-block-cover__image-background wp-image-333"><img loading="lazy"  alt="" src="https://fede65246.github.io/RCN/media/posts/37/87262c92d42acd1c3.73206444.jpg" style="object-position:50% 0%" data-object-fit="cover" data-object-position="50% 0%" sizes="(max-width: 48em) 100vw, 768px" srcset="https://fede65246.github.io/RCN/media/posts/37/responsive/87262c92d42acd1c3.73206444-xs.jpg 300w ,https://fede65246.github.io/RCN/media/posts/37/responsive/87262c92d42acd1c3.73206444-sm.jpg 480w ,https://fede65246.github.io/RCN/media/posts/37/responsive/87262c92d42acd1c3.73206444-md.jpg 768w ,https://fede65246.github.io/RCN/media/posts/37/responsive/87262c92d42acd1c3.73206444-lg.jpg 1024w ,https://fede65246.github.io/RCN/media/posts/37/responsive/87262c92d42acd1c3.73206444-xl.jpg 1360w ,https://fede65246.github.io/RCN/media/posts/37/responsive/87262c92d42acd1c3.73206444-2xl.jpg 1600w"></figure>
-<div class="wp-block-cover__inner-container"><p><!-- wp:group {"style":{"spacing":{"blockGap":"0px"},"layout":{"selfStretch":"fill","flexSize":null}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap"}} --></p>
-<div class="wp-block-group"><p><!-- wp:heading {"textAlign":"left","style":{"color":{"text":"#d8a557"},"typography":{"fontSize":"160px"}}} --></p>
-<h2 class="wp-block-heading has-text-align-left has-text-color" style="color:#d8a557;font-size:160px">Iscriviti</h2>
-<p>
-<!-- /wp:heading --></div>
-<p>
-<!-- /wp:group --></div>
-</div>
-<p>
-<!-- /wp:cover --></p>
-<p><!-- wp:group {"metadata":{"name":"Features"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|30","bottom":"var:preset|spacing|60","left":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} --></p>
-<div class="wp-block-group alignfull has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--30)"><p><!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"left"}} --></p>
-<div class="wp-block-group alignwide"><p><!-- wp:heading {"fontSize":"large"} --></p>
-<h2 class="wp-block-heading has-large-font-size">Cosa ci rende speciali</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"16px"}}}} --></p>
-<p style="margin-top:16px">Scopri tutti i vantaggi che ti offre la Rete culturale nazionale. Iscriverti non costa nulla ma contribuirà allo sviluppo culturale del paese. Ricorda però di rispettare i requisiti d'ammissione; dai un occhio al nostro documento fondante! </p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:buttons --></p>
-<div class="wp-block-buttons"><p><!-- wp:button --></p>
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://reteculturalenazionale.it/wp-content/uploads/2024/09/Documento-Fondante-2.pdf">Documento fondante</a></div>
-<p>
-<!-- /wp:button --></div>
-<p>
-<!-- /wp:buttons --></div>
-<p>
-<!-- /wp:group --></p>
-<p><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|30","left":"var:preset|spacing|30"}}}} --></p>
-<div class="wp-block-columns alignwide"><p><!-- wp:column {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem","top":"1.5rem","bottom":"1.5rem"}}},"backgroundColor":"tertiary"} --></p>
-<div class="wp-block-column has-tertiary-background-color has-background" style="padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><p><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"20px","lineHeight":"1.5"}}} --></p>
-<h3 class="wp-block-heading" style="font-size:20px;line-height:1.5">Motore di Ricerca </h3>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"8px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:8px">Esplora l'arte, la storia e la cultura italiana nel nostro museo.</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:column --></p>
-<p><!-- wp:column {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem","top":"1.5rem","bottom":"1.5rem"}}},"backgroundColor":"tertiary"} --></p>
-<div class="wp-block-column has-tertiary-background-color has-background" style="padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><p><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"20px","lineHeight":"1.5"}}} --></p>
-<h3 class="wp-block-heading" style="font-size:20px;line-height:1.5">Community Nazionale</h3>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"8px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:8px">Scopri le nostre mostre ed eventi che esplorano la storia e la cultura italiana.</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:column --></p>
-<p><!-- wp:column {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem","top":"1.5rem","bottom":"1.5rem"}}},"backgroundColor":"tertiary"} --></p>
-<div class="wp-block-column has-tertiary-background-color has-background" style="padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><p><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"20px","lineHeight":"1.5"}}} --></p>
-<h3 class="wp-block-heading" style="font-size:20px;line-height:1.5">Interdisciplinarità</h3>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"8px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:8px">Esplora il glorioso passato italiano attraverso un'esperienza immersiva che unisce storia, arte e cultura con tecnologie innovative.</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:column --></p>
-<p><!-- wp:column {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem","top":"1.5rem","bottom":"1.5rem"}}},"backgroundColor":"tertiary"} --></p>
-<div class="wp-block-column has-tertiary-background-color has-background" style="padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><p><!-- wp:heading {"level":3,"style":{"typography":{"fontSize":"20px","lineHeight":"1.5"}}} --></p>
-<h3 class="wp-block-heading" style="font-size:20px;line-height:1.5">Visibilità</h3>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"8px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:8px">Scopri l'Italia attraverso mostre e eventi che celebrano il nostro illustre passato.</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:column --></div>
-<p>
-<!-- /wp:columns --></p>
-<p><!-- wp:group {"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group"><!-- wp:details -->
-<details class="wp-block-details"><summary>Iscriviti Come Privato</summary><!-- wp:paragraph {"placeholder":"Digita / per aggiungere un blocco nascosto"} --></p>
-<p>Oltre all'iscrizione dei centri culturali sul nostro sito, si prevede la possibilità di iscriversi come privati. Facendolo il tuo " centro culturale temporaneo " apparirà sulla mappa e tra gli eventi. Chiunque sia interessato all'argomento ti contatterà e potrete organizzarvi per o elaborare progetti condivisi </p>
-<p>
-<!-- /wp:paragraph --></details>
-<!-- /wp:details --></div>
-<p>
-<!-- /wp:group --></p>
-<p><!-- wp:heading {"textAlign":"center","fontSize":"large"} --></p>
-<h2 class="wp-block-heading has-text-align-center has-large-font-size">Contattaci indicando le tue richieste ed inizieremo da subito a discutere su come pubblicare il centro culturale sulla rete </h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:wpforms/form-selector {"clientId":"5cd1b939-a8ab-4a69-b34e-15509c2a4a02","formId":"9","copyPasteJsonValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022theme\u0022:\u0022default\u0022,\u0022themeName\u0022:\u0022\u0022,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022backgroundImage\u0022:\u0022none\u0022,\u0022backgroundPosition\u0022:\u0022center center\u0022,\u0022backgroundRepeat\u0022:\u0022no-repeat\u0022,\u0022backgroundSizeMode\u0022:\u0022cover\u0022,\u0022backgroundSize\u0022:\u0022cover\u0022,\u0022backgroundWidth\u0022:\u0022100px\u0022,\u0022backgroundHeight\u0022:\u0022100px\u0022,\u0022backgroundUrl\u0022:\u0022url()\u0022,\u0022backgroundColor\u0022:\u0022rgba( 0, 0, 0, 0 )\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBorderStyle\u0022:\u0022solid\u0022,\u0022fieldBorderSize\u0022:\u00221px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022fieldMenuColor\u0022:\u0022#ffffff\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderStyle\u0022:\u0022none\u0022,\u0022buttonBorderSize\u0022:\u00221px\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#066aab\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022,\u0022buttonBorderColor\u0022:\u0022#066aab\u0022,\u0022pageBreakColor\u0022:\u0022#066aab\u0022,\u0022containerPadding\u0022:\u00220px\u0022,\u0022containerBorderStyle\u0022:\u0022none\u0022,\u0022containerBorderWidth\u0022:\u00221px\u0022,\u0022containerBorderColor\u0022:\u0022#000000\u0022,\u0022containerBorderRadius\u0022:\u00223px\u0022,\u0022containerShadowSize\u0022:\u0022none\u0022,\u0022customCss\u0022:\u0022\u0022,\u0022pageTitle\u0022:\u0022Unisciti alla Rete\u0022}","pageTitle":"Unisciti alla Rete"} /--></div>
-<p>
-<!-- /wp:group --></p>
-<p><!-- wp:media-text {"align":"full","mediaType":"image","verticalAlignment":"center","metadata":{"categories":["featured"],"patternName":"core/media-and-text-with-image-on-the-left","name":"Media and text with image on the left"}} --></p>
-<div class="wp-block-media-text alignfull is-stacked-on-mobile is-vertically-aligned-center">
-<figure class="wp-block-media-text__media"><img loading="lazy" src="https://fede65246.github.io/RCN/media/posts/37/architecture-04.jpg" alt="Close-up, abstract view of architecture." sizes="(max-width: 48em) 100vw, 768px" srcset="https://fede65246.github.io/RCN/media/posts/37/responsive/architecture-04-xs.jpg 300w ,https://fede65246.github.io/RCN/media/posts/37/responsive/architecture-04-sm.jpg 480w ,https://fede65246.github.io/RCN/media/posts/37/responsive/architecture-04-md.jpg 768w ,https://fede65246.github.io/RCN/media/posts/37/responsive/architecture-04-lg.jpg 1024w ,https://fede65246.github.io/RCN/media/posts/37/responsive/architecture-04-xl.jpg 1360w ,https://fede65246.github.io/RCN/media/posts/37/responsive/architecture-04-2xl.jpg 1600w"></figure>
-<div class="wp-block-media-text__content"><p><!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#000000"}}} --></p>
-<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#000000"><strong>Open Space</strong></h3>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:post-comments-form /--></div>
-</div>
-<p>
-<!-- /wp:media-text --></p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Contatti</title>
         <author>
             <name>Federico Vidoli</name>
         </author>
-        <link href="https://fede65246.github.io/RCN/contatti-3/"/>
-        <id>https://fede65246.github.io/RCN/contatti-3/</id>
+        <link href="https://fede65246.github.io/RCN/contatti/"/>
+        <id>https://fede65246.github.io/RCN/contatti/</id>
 
-        <updated>2024-09-23T13:24:22+02:00</updated>
+        <updated>2024-10-19T10:29:50+02:00</updated>
             <summary>
                 <![CDATA[
-                    Contattateci per qualsiasi dubbio o perplessità. Ma anche per qualsiasi inconveniente dovesse avvenire nei centri affiliati alla rete. Sarà un piacere per noi&hellip;
+                    Esprimici i tuoi dubbi:
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><!-- wp:group {"metadata":{"name":"Quote"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|30","bottom":"var:preset|spacing|60","left":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} --></p>
-<div class="wp-block-group alignfull has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--30)"><p><!-- wp:heading {"textAlign":"center","fontSize":"large"} --></p>
-<h2 class="wp-block-heading has-text-align-center has-large-font-size">Scrivici, saremo lieti di conoscerti!</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"16px"}}}} --></p>
-<p class="has-text-align-center" style="margin-top:16px">Contattateci per qualsiasi dubbio o perplessità. Ma anche per qualsiasi inconveniente dovesse avvenire nei centri affiliati alla rete. Sarà un piacere per noi aiutarvi e conoscervi per consolidare le conoscenze </p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","right":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"backgroundColor":"tertiary","layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group has-tertiary-background-color has-background" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><p><!-- wp:paragraph {"align":"center"} --></p>
-<p class="has-text-align-center"><strong>Via del Corso, 123</strong></p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0","bottom":"12px"}}}} --></p>
-<p class="has-text-align-center" style="margin-top:0;margin-bottom:12px"><strong>00100 Roma, Italia</strong></p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"8px"}}}} --></p>
-<p class="has-text-align-center" style="margin-top:8px">Telefono Centro Comunitario</p>
-<p>
-<!-- /wp:paragraph --></p>
-<p><!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"8px"}}}} --></p>
-<p class="has-text-align-center" style="margin-top:8px">hi@example.com</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:group --></p>
-<p><!-- wp:wpforms/form-selector {"clientId":"406c62bf-d413-4f54-9e34-6ea96a36e1dd","formId":"9","copyPasteJsonValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022theme\u0022:\u0022default\u0022,\u0022themeName\u0022:\u0022\u0022,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022backgroundImage\u0022:\u0022none\u0022,\u0022backgroundPosition\u0022:\u0022center center\u0022,\u0022backgroundRepeat\u0022:\u0022no-repeat\u0022,\u0022backgroundSizeMode\u0022:\u0022cover\u0022,\u0022backgroundSize\u0022:\u0022cover\u0022,\u0022backgroundWidth\u0022:\u0022100px\u0022,\u0022backgroundHeight\u0022:\u0022100px\u0022,\u0022backgroundUrl\u0022:\u0022url()\u0022,\u0022backgroundColor\u0022:\u0022rgba( 0, 0, 0, 0 )\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBorderStyle\u0022:\u0022solid\u0022,\u0022fieldBorderSize\u0022:\u00221px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022fieldMenuColor\u0022:\u0022#ffffff\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderStyle\u0022:\u0022none\u0022,\u0022buttonBorderSize\u0022:\u00221px\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#066aab\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022,\u0022buttonBorderColor\u0022:\u0022#066aab\u0022,\u0022pageBreakColor\u0022:\u0022#066aab\u0022,\u0022containerPadding\u0022:\u00220px\u0022,\u0022containerBorderStyle\u0022:\u0022none\u0022,\u0022containerBorderWidth\u0022:\u00221px\u0022,\u0022containerBorderColor\u0022:\u0022#000000\u0022,\u0022containerBorderRadius\u0022:\u00223px\u0022,\u0022containerShadowSize\u0022:\u0022none\u0022,\u0022customCss\u0022:\u0022\u0022,\u0022pageTitle\u0022:\u0022Contatti\u0022}","pageTitle":"Contatti"} /--></p>
-
+                <h2>Esprimici i tuoi dubbi:</h2>
+<iframe width="100%" height="180" data-responsive="false" data-tally-src="https://tally.so/embed/mVMR8y?alignLeft=1&amp;hideTitle=1&amp;transparentBackground=1&amp;dynamicHeight=1" loading="lazy" frameborder="0" marginheight="0" marginwidth="0" title="Esprimi i tuoi dubbi:"></iframe>
+<script>
+	var d = document,
+		w = "https://tally.so/widgets/embed.js",
+		v = function() {
+			"undefined" != typeof Tally ? Tally.loadEmbeds() : d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e) {
+				e.src = e.dataset.tallySrc
+			}))
+		};
+	if ("undefined" != typeof Tally) v();
+	else if (d.querySelector('script[src="' + w + '"]') == null) {
+		var s = d.createElement("script");
+		s.src = w, s.onload = v, s.onerror = v, d.body.appendChild(s);
+	}
+</script>
+</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Cerca i centri</title>
+        <title>Eventi</title>
         <author>
             <name>Federico Vidoli</name>
         </author>
-        <link href="https://fede65246.github.io/RCN/cerca-i-centri-2/"/>
-        <id>https://fede65246.github.io/RCN/cerca-i-centri-2/</id>
+        <link href="https://fede65246.github.io/RCN/eventi/"/>
+        <id>https://fede65246.github.io/RCN/eventi/</id>
 
-        <updated>2024-09-23T12:39:29+02:00</updated>
+        <updated>2024-10-19T10:29:23+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Browser</title>
+        <author>
+            <name>Federico Vidoli</name>
+        </author>
+        <link href="https://fede65246.github.io/RCN/browser/"/>
+        <id>https://fede65246.github.io/RCN/browser/</id>
+
+        <updated>2024-10-19T10:29:18+02:00</updated>
             <summary>
                 <![CDATA[
-                    Cerca sulle mappe il centro culturale più vicino a te. Avrai dei filtri e delle categorie a disposizione per selezionare l'evento e la&hellip;
+                    Una mappa di centri culturali Ecco il nostro motore di ricerca: trova nelle zone più vicine a te il centro culturale con eventi&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><!-- wp:group {"metadata":{"name":" Service Area"},"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|30","bottom":"var:preset|spacing|60","left":"var:preset|spacing|30"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"inherit":true,"type":"constrained"}} --></p>
-<div class="wp-block-group alignfull has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--30)"><p><!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"left","contentSize":""}} --></p>
-<div class="wp-block-group alignwide"><p><!-- wp:heading {"fontSize":"large"} --></p>
-<h2 class="wp-block-heading has-large-font-size">Un browser culturale</h2>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"16px"}}}} --></p>
-<p style="margin-top:16px">Cerca sulle mappe il centro culturale più vicino a te. Avrai dei filtri e delle categorie a disposizione per selezionare l'evento e la discussione che più ti interessa </p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></p>
-<p><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|60","left":"var:preset|spacing|30"}}}} --></p>
-<div class="wp-block-columns alignwide"><p><!-- wp:column {"style":{"spacing":{"blockGap":"0"}},"backgroundColor":"tertiary"} --></p>
-<div class="wp-block-column has-tertiary-background-color has-background"><p><!-- wp:html --></p>
-<div style="position: relative; overflow: hidden; padding-top: 75%;">
-  <div class="post__iframe"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d321572.4532463558!2d-82.41587548892008!3d28.495370170367295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e7fbe128486f61%3A0xda5b5145139188ff!2sHernando%20County%2C%20FL%2C%20USA!5e0!3m2!1sen!2s!4v1691384237222!5m2!1sen!2s" style="border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-</div>
-<p>
-<!-- /wp:html --></p>
-<p><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><p><!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"24px"}}} --></p>
-<h4 class="wp-block-heading" style="font-size:24px">Firenze</h4>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"8px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:8px">Il Centro Comunitario La Piazza a Firenze, per la comunità locale.</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:column --></p>
-<p><!-- wp:column {"style":{"spacing":{"blockGap":"0"}},"backgroundColor":"tertiary"} --></p>
-<div class="wp-block-column has-tertiary-background-color has-background"><p><!-- wp:html --></p>
-<div style="position: relative; overflow: hidden; padding-top: 75%;">
-  <div class="post__iframe"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d451370.0326764848!2d-82.72476355!3d27.8918945!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c297d1e3514d99%3A0x9f154b4082fc1210!2sPinellas%20County%2C%20FL%2C%20USA!5e0!3m2!1sen!2s!4v1691383417288!5m2!1sen!2s" style="border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-</div>
-<p>
-<!-- /wp:html --></p>
-<p><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><p><!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"24px"}}} --></p>
-<h4 class="wp-block-heading" style="font-size:24px">Roma</h4>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"8px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:8px">Situato nel cuore di Roma, La Piazza accoglie e migliora la vita della comunità.</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:column --></p>
-<p><!-- wp:column {"style":{"spacing":{"blockGap":"0"}},"backgroundColor":"tertiary"} --></p>
-<div class="wp-block-column has-tertiary-background-color has-background"><p><!-- wp:html --></p>
-<div style="position: relative; overflow: hidden; padding-top: 75%;">
-  <div class="post__iframe"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d283547.4296767355!2d-82.45785505825623!3d28.0115474503312!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dd3512570a8e95%3A0xdb3a212adf1af30c!2sHillsborough%20County%2C%20FL%2C%20USA!5e0!3m2!1sen!2s!4v1691384352265!5m2!1sen!2s" style="border:0; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-</div>
-<p>
-<!-- /wp:html --></p>
-<p><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30"}}},"layout":{"type":"constrained"}} --></p>
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><p><!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"24px"}}} --></p>
-<h4 class="wp-block-heading" style="font-size:24px">Napoli</h4>
-<p>
-<!-- /wp:heading --></p>
-<p><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"8px"}}},"fontSize":"small"} --></p>
-<p class="has-small-font-size" style="margin-top:8px">Il Centro Comunitario La Piazza: benessere e arricchimento per la comunità di Napoli.</p>
-<p>
-<!-- /wp:paragraph --></div>
-<p>
-<!-- /wp:group --></div>
-<p>
-<!-- /wp:column --></div>
-<p>
-<!-- /wp:columns --></div>
-<p>
-<!-- /wp:group --></p>
-
+                <h2 class="wp-block-heading has-large-font-size">Una mappa di centri culturali</h2>
+<p>Ecco il nostro motore di ricerca: trova nelle zone più vicine a te il centro culturale con eventi o discussioni attive. Partecipa a conferenze o dibattiti in tutta Italia, sii parte della rete! E se ti iscriverai alla rete potrai entrare in contatto con i centri culturali delle varie città italiane per creare partnership, collaborazioni, progetti, ma anche dibatiti.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;"><div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5939.704802266845!2d12.464901876012267!3d41.89603127123981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132f60446eb37071%3A0x277ca9ce5593648b!2sLiceo%20Ginnasio%20Statale%20%C2%ABVirgilio%C2%BB!5e0!3m2!1sen!2sit!4v1729327749729!5m2!1sen!2sit" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+<h4 class="wp-block-heading">Roma</h4>
+<p class="has-small-font-size">Officina dei saperi potenziali: il centro culturale giovane, progressista e interdisciplinare</p>
+</td>
+<td style="width: 49.9288%;"><div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2787.4954386822797!2d12.217356176217036!3d45.681028571078336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477937b86a8500eb%3A0x1d8f97134c29b316!2sLiceo%20Scientifico%20Leonardo%20Da%20Vinci!5e0!3m2!1sen!2sit!4v1729327834145!5m2!1sen!2sit" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+<h4 class="wp-block-heading">Treviso</h4>
+<p class="has-small-font-size">Gruppo culturale studentesco Trevigiano: il primo centro affiliato, giovane, dinamico, interdisciplinare e molto attivo</p>
+</td>
+</tr>
+<tr>
+<td style="width: 49.9288%;"><div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3018.655306990853!2d14.234811075957419!3d40.83553427137524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1319ef439c5467a5%3A0x6b647cfe05a7d2f5!2sState%20High%20School%20Umberto%20I!5e0!3m2!1sen!2sit!4v1729327877297!5m2!1sen!2sit" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+<h4 class="wp-block-heading">Napoli</h4>
+<p class="has-small-font-size">Esplora Napoli, città ricca di storia, cultura e arte. Scopri la sua vibrante vita e opere d’arte.</p>
+</td>
+<td style="width: 49.9288%;"><div class="post__iframe"><iframe width="600" height="450" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22386.820828828582!2d9.157129670349567!3d45.46270052486173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6a3be41aab1%3A0x48d37be76914c308!2sLiceo%20Scientifico%20Statale%20%22Leonardo%20da%20Vinci%22!5e0!3m2!1sen!2sit!4v1729327972357!5m2!1sen!2sit" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+<h4 class="wp-block-heading">Milano</h4>
+<p class="has-small-font-size">Scopri Milano, la capitale della moda e del design, attraverso i suoi capolavori artistici e la vita culturale.</p>
+</td>
+</tr>
+</tbody>
+</table>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Hello world!</title>
+        <title>Iscriviti</title>
         <author>
             <name>Federico Vidoli</name>
         </author>
-        <link href="https://fede65246.github.io/RCN/hello-world-2/"/>
-        <id>https://fede65246.github.io/RCN/hello-world-2/</id>
+        <link href="https://fede65246.github.io/RCN/iscriviti/"/>
+        <id>https://fede65246.github.io/RCN/iscriviti/</id>
 
-        <updated>2024-09-21T13:21:25+02:00</updated>
+        <updated>2024-10-19T10:18:08+02:00</updated>
             <summary>
                 <![CDATA[
-                    Welcome to WordPress. This is your first post. Edit or delete it, then start writing!
+                    Cosa ci rende speciali Scopri tutti i vantaggi che ti offre la Rete culturale nazionale. Iscriverti non costa nulla ma contribuirà allo sviluppo&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><!-- wp:paragraph --></p>
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>
-<!-- /wp:paragraph --></p>
+                <h2 class="wp-block-heading has-large-font-size">Cosa ci rende speciali</h2>
+<p>Scopri tutti i vantaggi che ti offre la Rete culturale nazionale. Iscriverti non costa nulla ma contribuirà allo sviluppo culturale del paese. Ricorda però di rispettare i requisiti d’ammissione; dai un occhio al nostro <a>documento fondante</a>!</p>
+<table style="border-collapse: collapse; width: 100%;" border="1" cellspacing="10">
+<tbody>
+<tr>
+<td class="align-center" style="width: 24.9644%;">
+<h3 class="wp-block-heading">Motore di Ricerca</h3>
+<p class="has-small-font-size">Esplora l’arte, la storia e la cultura italiana nel nostro museo.</p>
+</td>
+<td class="align-center" style="width: 24.9644%;">
+<h3 class="wp-block-heading align-center">Community Nazionale</h3>
+<p class="has-small-font-size">Scopri le nostre mostre ed eventi che esplorano la storia e la cultura italiana.</p>
+</td>
+<td class="align-center" style="width: 24.9644%;">
+<h3 class="wp-block-heading">Interdisciplinarità</h3>
+<p class="has-small-font-size">Esplora il glorioso passato italiano attraverso un’esperienza immersiva che unisce storia, arte e cultura con tecnologie innovative.</p>
+</td>
+<td class="align-center" style="width: 24.9644%;">
+<h3 class="wp-block-heading align-center">Visibilità</h3>
+<p class="has-small-font-size align-center">Scopri l’Italia attraverso mostre e eventi che celebrano il nostro illustre passato.</p>
+</td>
+</tr>
+</tbody>
+</table>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Cos&#x27;e la RCN?</title>
+        <author>
+            <name>Federico Vidoli</name>
+        </author>
+        <link href="https://fede65246.github.io/RCN/cose-la-rcn/"/>
+        <id>https://fede65246.github.io/RCN/cose-la-rcn/</id>
 
+        <updated>2024-10-19T10:08:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Un network culturale che connette il sapere di tutta Italia Benvenuti a Rete Culturale Nazionale, dove la cultura italiana prende vita. Scopri gli&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="wp-block-heading alignwide has-text-align-left has-x-large-font-size"><figure class="post__image post__image--left"><img loading="lazy"  src="https://fede65246.github.io/RCN/media/posts/61/Opera-Snapshot_2024-10-17_194209_reteculturalenazionale.it.png" alt="" width="1200" height="1242" sizes="(max-width: 48em) 100vw, 768px" srcset="https://fede65246.github.io/RCN/media/posts/61/responsive/Opera-Snapshot_2024-10-17_194209_reteculturalenazionale.it-xs.png 300w ,https://fede65246.github.io/RCN/media/posts/61/responsive/Opera-Snapshot_2024-10-17_194209_reteculturalenazionale.it-sm.png 480w ,https://fede65246.github.io/RCN/media/posts/61/responsive/Opera-Snapshot_2024-10-17_194209_reteculturalenazionale.it-md.png 768w ,https://fede65246.github.io/RCN/media/posts/61/responsive/Opera-Snapshot_2024-10-17_194209_reteculturalenazionale.it-lg.png 1024w ,https://fede65246.github.io/RCN/media/posts/61/responsive/Opera-Snapshot_2024-10-17_194209_reteculturalenazionale.it-xl.png 1360w ,https://fede65246.github.io/RCN/media/posts/61/responsive/Opera-Snapshot_2024-10-17_194209_reteculturalenazionale.it-2xl.png 1600w"></figure>Un network culturale che connette il sapere di tutta Italia</h2>
+<p>Benvenuti a Rete Culturale Nazionale, dove la cultura italiana prende vita.<br><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">Scopri gli eventi e i centri culturali, iscriviti e diventa un polo del sapere Italiano!</span></p>
+<p class="align-center"><a href="#non-existing-page-with-id-52" class="button">ISCRIVITI</a></p>
+<h2 class="wp-block-heading has-text-align-center has-large-font-size">Il nostro obbiettivo</h2>
+<figure class="post__image post__image--right"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-left: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="file:///C:/Users/cri/Documents/Publii/sites/rete-culturale-nazionale/input/media/posts/60/Scuola-atene-2.webp" alt="" width="335" height="243" sizes="(max-width: 48em) 100vw, 768px" srcset="file:///C:/Users/cri/Documents/Publii/sites/rete-culturale-nazionale/input/media/posts/60/responsive/Scuola-atene-2-xs.webp 300w ,file:///C:/Users/cri/Documents/Publii/sites/rete-culturale-nazionale/input/media/posts/60/responsive/Scuola-atene-2-sm.webp 480w ,file:///C:/Users/cri/Documents/Publii/sites/rete-culturale-nazionale/input/media/posts/60/responsive/Scuola-atene-2-md.webp 768w ,file:///C:/Users/cri/Documents/Publii/sites/rete-culturale-nazionale/input/media/posts/60/responsive/Scuola-atene-2-lg.webp 1024w ,file:///C:/Users/cri/Documents/Publii/sites/rete-culturale-nazionale/input/media/posts/60/responsive/Scuola-atene-2-xl.webp 1360w ,file:///C:/Users/cri/Documents/Publii/sites/rete-culturale-nazionale/input/media/posts/60/responsive/Scuola-atene-2-2xl.webp 1600w"></figure>
+<p class="has-text-align-center">Vediamo un importante momento di transizione nella cultura italiana. Sempre più giovani cercano un sapere profondo, una propria visione del mondo, un semplice svago che sia più arric<span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">chente della vita mondana, ma sappiamo che è solo una scintilla nella notte. </span>Vorremmo alimentare la fiamma del sapere e della curiosità contribuendo a creare una rete culturale vasta e solida su tutto il suolo nazionale.</p>
+<p class="align-center"><a href="https://fede65246.github.io/RCN/null" class="button">DOCUMENTO FONDANTE</a></p>
+<figure class="post__image post__image--left"><img loading="lazy"  style="margin-bottom: 1.37143rem; margin-right: 1.37143rem; outline: 3px solid rgba(var(--color-primary-rgb), 0.55) !important;" src="https://fede65246.github.io/RCN/media/posts/61/Progetto-senza-titolo-2.png" alt="" width="257" height="257" sizes="(max-width: 48em) 100vw, 768px" srcset="https://fede65246.github.io/RCN/media/posts/61/responsive/Progetto-senza-titolo-2-xs.png 300w ,https://fede65246.github.io/RCN/media/posts/61/responsive/Progetto-senza-titolo-2-sm.png 480w ,https://fede65246.github.io/RCN/media/posts/61/responsive/Progetto-senza-titolo-2-md.png 768w ,https://fede65246.github.io/RCN/media/posts/61/responsive/Progetto-senza-titolo-2-lg.png 1024w ,https://fede65246.github.io/RCN/media/posts/61/responsive/Progetto-senza-titolo-2-xl.png 1360w ,https://fede65246.github.io/RCN/media/posts/61/responsive/Progetto-senza-titolo-2-2xl.png 1600w"></figure>
+<h2 class="wp-block-heading has-large-font-size">Trova centri culturali vicini a te</h2>
+<p>Con il nostro motore di ricerca avrai la possibilità di trovare centri culturali limitrofi. Potrai partecipare a conferenze, eventi e workshop pubblicati sulla rete ed entrare in un mondo di sapere. Condividi le tue idee e opinioni in discussioni o dibattiti pubblicati sul browser. Ma non dimenticarti che ci sono delle regole da seguire!</p>
+<p class="align-center"><a class="button">I CENTRI</a></p>
+<h2 class="wp-block-heading has-large-font-size"> </h2>
             ]]>
         </content>
     </entry>
